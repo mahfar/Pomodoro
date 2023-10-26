@@ -32,7 +32,7 @@ def reset_timer():
     repeat = 0
 
 
-# -----------------------------Snooze----------------------------- #
+# -----------------------------Snooz----------------------------- #
 def start_timer():
     global SHORT_BREAK_SNOOZE
     SHORT_BREAK_SNOOZE = 1
